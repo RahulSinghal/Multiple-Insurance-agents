@@ -1,0 +1,48 @@
+# Local file to not be tracked
+basic_streamlit_ref_code.py
+edge_case_handled.py
+edge_case2.py
+insurance_agents_old.py
+
+# Dependency directories
+node_modules/
+vendor/
+.env
+agnoenv
+agnoenv\
+agnoenv/
+
+# Build files
+dist/
+build/
+*.exe
+*.class
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]  # Also ignores .pyc, .pyo, and .pyd files
+
+# Agent-UI
+agent-ui
+agent-ui\
+agent-ui/
+
+# Folders
+volumes/
+
+client_secret.json
+database_files/
+data/insurance_data_strings.pdf
